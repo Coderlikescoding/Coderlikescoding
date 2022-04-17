@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Coderlikescoding
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to code
+- 👋 My goal is to be an expert coder and reach new hights
